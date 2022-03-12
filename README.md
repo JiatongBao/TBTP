@@ -1,6 +1,6 @@
 # Transformer based Task Planning for Vision-and-Language Manipulation
 
-This repository will provide PyTorch code for training and testing a transformer based task planner for Vision-and-Languge Manipulation (VLM) in simulation settings on a UR5/UR3 robot arm. This is the reference implementation for the manuscript submitted to <i>IROS 2022</i>.
+This repository will provide PyTorch code for training and testing a transformer based task planner for Vision-and-Language Manipulation (VLM) in simulation settings on a UR5/UR3 robot arm. This is the reference implementation for the manuscript submitted to <i>IROS 2022</i>.
 
 ### Transformer based Task Planning for Vision-and-Language Manipulation
 
